@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Tushar1752/Leetcode-practice/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Tushar1752/Leetcode-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tushar1752/Leetcode-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tushar1752/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Tushar1752/Leetcode-practice/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tushar1752/Leetcode-practice/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
 ## Counting
 |  |
 | ------- |
@@ -169,10 +172,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Tushar1752/Leetcode-practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Tushar1752/Leetcode-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Tushar1752/Leetcode-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Tushar1752/Leetcode-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
