@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
@@ -63,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
