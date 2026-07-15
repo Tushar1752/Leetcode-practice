@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Tushar1752/Leetcode-practice/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Tushar1752/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Tushar1752/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Tushar1752/Leetcode-practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Tushar1752/Leetcode-practice/tree/master/0078-subsets) |
 ## Bit Manipulation
