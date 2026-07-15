@@ -185,23 +185,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
