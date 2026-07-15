@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0148-sort-list) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Tushar1752/Leetcode-practice/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
