@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Tushar1752/Leetcode-practice/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Tushar1752/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0148-sort-list) |
