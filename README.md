@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tushar1752/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Tushar1752/Leetcode-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tushar1752/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tushar1752/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tushar1752/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
