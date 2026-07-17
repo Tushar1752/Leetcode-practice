@@ -1,7 +1,7 @@
 class Solution {
     int count =0;
     public int goodNodes(TreeNode root) {
-        dfs(root,root.val);
+        dfs(root, -20000);
         return count;
         
     }
