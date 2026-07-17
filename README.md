@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tushar1752/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tushar1752/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/0404-sum-of-left-leaves) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tushar1752/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/0404-sum-of-left-leaves) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tushar1752/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/0404-sum-of-left-leaves) |
