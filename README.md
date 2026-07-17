@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tushar1752/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tushar1752/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Tushar1752/Leetcode-practice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tushar1752/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Tushar1752/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tushar1752/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tushar1752/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tushar1752/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/0404-sum-of-left-leaves) |
 | [0993-cousins-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -277,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tushar1752/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
