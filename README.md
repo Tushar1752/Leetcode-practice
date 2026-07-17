@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
