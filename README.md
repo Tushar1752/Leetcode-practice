@@ -46,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tushar1752/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Tushar1752/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -145,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tushar1752/Leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Tushar1752/Leetcode-practice/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
