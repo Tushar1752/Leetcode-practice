@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Tushar1752/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/Tushar1752/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Tushar1752/Leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tushar1752/Leetcode-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Tushar1752/Leetcode-practice/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Tushar1752/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tushar1752/Leetcode-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Tushar1752/Leetcode-practice/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
