@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tushar1752/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Tushar1752/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0494-target-sum) |
 | [0875-koko-eating-bananas](https://github.com/Tushar1752/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Tushar1752/Leetcode-practice/tree/master/1046-last-stone-weight) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
