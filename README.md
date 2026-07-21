@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Tushar1752/Leetcode-practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Tushar1752/Leetcode-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0136-single-number) |
