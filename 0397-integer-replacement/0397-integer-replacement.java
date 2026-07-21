@@ -7,7 +7,7 @@ class Solution {
                 num /=2;
 
             }else{
-                if(num ==3 ||(num &3)==1){
+                if(num ==3 ||num %4==1){
                     num --;
 
                 }
