@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Tushar1752/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Tushar1752/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Tushar1752/Leetcode-practice/tree/master/1046-last-stone-weight) |
@@ -192,12 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/1143-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tushar1752/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0542-01-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0993-cousins-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
