@@ -1,9 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length;
-        for(int i =0;i<nums.length;i++){
-            n = n^i^nums[i];
+        // int n = nums.length;
+        int x=0;
+        for(int i =0; i<=nums.length;i++){
+            x=x^i;
         }
-return n;
+        int y=0;
+        for(int i =0; i<nums.length;i++){
+            y=y^nums[i];
+        }
+        return x^y;
     }
 }
