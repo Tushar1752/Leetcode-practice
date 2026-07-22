@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Tushar1752/Leetcode-practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tushar1752/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Tushar1752/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Tushar1752/Leetcode-practice/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Tushar1752/Leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tushar1752/Leetcode-practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Tushar1752/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tushar1752/Leetcode-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Tushar1752/Leetcode-practice/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Tushar1752/Leetcode-practice/tree/master/0397-integer-replacement) |
