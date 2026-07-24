@@ -3,8 +3,8 @@ class Solution {
         int[] out= new int[n+1];
         int[] in = new int[n+1];
 
-        Arrays.fill(out,0);
-        Arrays.fill(in,0);
+        // Arrays.fill(out,0);
+        // Arrays.fill(in,0);
 
         for(int[] rel : trust){
             // int[] rel = trust[i];
