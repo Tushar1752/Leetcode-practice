@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Tushar1752/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Tushar1752/Leetcode-practice/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Tushar1752/Leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tushar1752/Leetcode-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tushar1752/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Tushar1752/Leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/1020-number-of-enclaves) |
 ## Counting
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Tree
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0993-cousins-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Tushar1752/Leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -430,4 +434,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Tushar1752/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Tushar1752/Leetcode-practice/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
