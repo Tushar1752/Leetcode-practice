@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tushar1752/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1143-longest-common-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/1143-longest-common-subsequence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Tushar1752/Leetcode-practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Tushar1752/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Tushar1752/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/1020-number-of-enclaves) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
