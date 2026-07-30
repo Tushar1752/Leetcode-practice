@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tushar1752/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1143-longest-common-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/1143-longest-common-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tushar1752/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/Tushar1752/Leetcode-practice/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
