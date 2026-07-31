@@ -3,18 +3,11 @@ class Solution {
 
         int curr = nums[0];
         int max= nums[0];
-        int n = nums.length;
-        for(int i =1;i<n;i++){
-            if(curr<0){
-                curr =0;
-            }
-            
-            curr = curr + nums[i];
-            if(curr>max){
-                max=curr;
-            }
-        }
-        return max;
+        for(int i =1;i<nums.length;i++){
+         curr = Math.max(nums[i], curr+nums[i]);
+         max= Math.max(max, curr);
+    }
+    return max;
 
     }
 }
