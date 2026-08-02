@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Tushar1752/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0542-01-matrix) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Tushar1752/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/Tushar1752/Leetcode-practice/tree/master/0997-find-the-town-judge) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
