@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Tushar1752/Leetcode-practice/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Tushar1752/Leetcode-practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Tushar1752/Leetcode-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tushar1752/Leetcode-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Tushar1752/Leetcode-practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Tushar1752/Leetcode-practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
