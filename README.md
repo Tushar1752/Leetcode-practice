@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tushar1752/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Tushar1752/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Tushar1752/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Tushar1752/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tushar1752/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Tushar1752/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/Tushar1752/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tushar1752/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tushar1752/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Tushar1752/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/Tushar1752/Leetcode-practice/tree/master/0997-find-the-town-judge) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Tushar1752/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/Tushar1752/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Tushar1752/Leetcode-practice/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
