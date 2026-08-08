@@ -1,39 +1,49 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int ans[]=new int[2];
-        ans[0] = search(nums,target,true);
-        ans[1] = search(nums,target,false);
-        return ans;
+        int first = findFirst(nums, target);
+        int last = findLast(nums, target);
+        return new int[]{first,last};
 
-
-        
     }
-    public int search(int[] nums,int target,boolean first){
-        int low =0;
-        int high=nums.length-1;
-        int ans=-1;
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(nums[mid]==target){
-                ans =mid;
-                if(first){
-                    high=mid-1;
 
-                }
-                else{
-                    low=mid+1;
-                }
-
+    public int findFirst(int [] nums, int target){
+        int left=0,right=nums.length-1,first=-1;
+        while(left<=right){
+            int mid = left + (right-left)/2;
+            if(nums[mid] == target){
+                first=mid;
+                right=mid-1;
             }
-            else if(nums[mid]<target){
-                low=mid+1;
+            else if(nums[mid] < target){
+                left = mid+1;
             }
             else{
-                high =mid-1;
+                right=mid-1;
             }
-
         }
-        return ans;
+        return first;
+    }
+
+    public int findLast(int []nums,int target){
+        int left=0;
+        int right=nums.length-1;
+        int last =-1;
+
+        while(left<=right){
+            int mid = left + (right-left)/2;
+
+            if(nums[mid]== target){
+                last = mid;
+                left=mid+1;
+            }
+            else if(nums[mid] < target){
+                left = mid+1;
+            }
+            else{
+                right=mid-1;
+            }
+        }
+        return last;
     }
 
 }
