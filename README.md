@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Tushar1752/Leetcode-practice/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Tushar1752/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Tushar1752/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Tushar1752/Leetcode-practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Tushar1752/Leetcode-practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Tushar1752/Leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Tushar1752/Leetcode-practice/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tushar1752/Leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Tushar1752/Leetcode-practice/tree/master/0739-daily-temperatures) |
 ## Enumeration
 |  |
 | ------- |
