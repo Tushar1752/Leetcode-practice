@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tushar1752/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Tushar1752/Leetcode-practice/tree/master/0198-house-robber) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tushar1752/Leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tushar1752/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tushar1752/Leetcode-practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tushar1752/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
