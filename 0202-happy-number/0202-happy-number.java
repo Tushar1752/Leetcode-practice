@@ -1,12 +1,13 @@
 class Solution {
     public boolean isHappy(int n) {
-        HashMap<Integer,Integer> Map = new HashMap<>();
+        HashSet<Integer> Map = new HashSet<>();
 
         while(n!=1){
-            if(Map.containsKey(n)){
+            if(Map.contains(n)){
                 return false;
             }
-            Map.put(n,1);
+            // Map.put(n,1);
+            Map.add(n);
             int sum=0;
             while(n>0){
                 int digit= n%10;
