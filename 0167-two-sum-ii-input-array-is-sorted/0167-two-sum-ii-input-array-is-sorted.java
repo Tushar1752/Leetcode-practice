@@ -3,10 +3,9 @@ class Solution {
         int n = numbers.length;
         int left = 0;
         int right=n-1;
-        for(int i =0;i<n;i++){
-            int sum = numbers[right] + numbers[left];
-
-            if(sum==target){
+        while(left<=right){
+            int sum = numbers[left] + numbers[right];
+            if(sum ==target){
                 return new int[]{left+1, right+1};
             }
             else if(sum<target){
@@ -16,8 +15,9 @@ class Solution {
                 right--;
             }
         }
-        return new int[]{};
-
+        return new int[]{left+1,right+1};
+       
+     
         
     }
 }
