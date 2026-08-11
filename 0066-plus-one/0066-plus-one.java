@@ -1,19 +1,32 @@
 class Solution {
-    public int[] plusOne(int[] digits) {
+    static int[] plusOne(int[] digits) {
 
+        for(int i=digits.length-1; i>=0; i--){
+            if(digits[i] <9 && digits[i] >=0){
+                digits[i]++;
+                return digits;
+            }
+            digits[i] =0;
+        }
+            int[] result = new int[digits.length+1];
+            result[0] =1;
 
-        for(int i =digits.length -1;i>=0;i--){
-        if(digits[i] < 9){
-            digits[i]++;
-            return digits;
+               return result;
 
         }
-        digits[i] =0;
+        public static void main(String[] args){
+            Scanner sc = new Scanner(System.in);
+            int n= sc.nextInt();
+            int[] digits =  new int[n];
 
+            for(int i =0;i<n;i++){
+                digits[i] = sc.nextInt();
+            }
+
+            int[] result= plusOne(digits);
+            System.out.println(Arrays.toString(plusOne(result)));
         }
 
-        int[] result= new int[digits.length+1];
-        result[0]=1;
-        return result;
+
+
     }
-}
