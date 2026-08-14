@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar1752/Leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Tushar1752/Leetcode-practice/tree/master/0997-find-the-town-judge) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tushar1752/Leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar1752/Leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Tushar1752/Leetcode-practice/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar1752/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tushar1752/Leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar1752/Leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
 |  |
 | ------- |
