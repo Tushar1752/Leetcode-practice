@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tushar1752/Leetcode-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Tushar1752/Leetcode-practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tushar1752/Leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar1752/Leetcode-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Tushar1752/Leetcode-practice/tree/master/3731-find-missing-elements) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Tushar1752/Leetcode-practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Geometry
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Tushar1752/Leetcode-practice/tree/master/0134-gas-station) |
 | [0397-integer-replacement](https://github.com/Tushar1752/Leetcode-practice/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Tushar1752/Leetcode-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -581,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -589,4 +595,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
