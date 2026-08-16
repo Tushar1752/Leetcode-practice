@@ -13,8 +13,10 @@ class Solution {
         }
         int left=height(root.left);
         int right=height(root.right);
-        diameter=Math.max(diameter,right+left);
-        return 1+Math.max(left,right);
+
+        diameter = Math.max(diameter, left+right);
+       int max= Math.max(left , right);
+        return max+1;
 
     }
 }
