@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tushar1752/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Tushar1752/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1143-longest-common-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/1143-longest-common-subsequence) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tushar1752/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tushar1752/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Tushar1752/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/Tushar1752/Leetcode-practice/tree/master/0997-find-the-town-judge) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Tushar1752/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
