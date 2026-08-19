@@ -2,34 +2,26 @@ import java.util.Arrays;
 
 class Solution {
     public int longestConsecutive(int[] nums) {
-
-        if (nums.length == 0) {
+        if(nums.length ==0){
             return 0;
         }
-
         Arrays.sort(nums);
-
-        int longest = 1;
-        int count = 1;
-
-        for (int i = 1; i < nums.length; i++) {
-
-            // Duplicate hai, ignore
-            if (nums[i] == nums[i - 1]) {
+        int count =1;
+        int longest=1;
+        for(int i=1;i<nums.length;i++){
+            if(nums[i] == nums[i-1]){
                 continue;
             }
-
-            // Consecutive hai
-            if (nums[i] == nums[i - 1] + 1) {
+            else if(nums[i] == nums[i-1] +1){
                 count++;
-            } 
-            else {
-                count = 1;
             }
-
-            longest = Math.max(longest, count);
+            else{
+                count =1;
+            }
+            longest = Math.max(count, longest);
         }
-
         return longest;
+
+ 
     }
 }
