@@ -1,24 +1,16 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int[] countS = new int[26];
-        int[] countT = new int[26];
 
-        for(int i =0; i < s.length(); i++){
-            countS[s.charAt(i) - 'a']++;
+        char result = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            result ^= s.charAt(i);
         }
-        for(int i =0 ; i<t.length() ; i++){
-            countT[t.charAt(i) - 'a']++;
+
+        for (int i = 0; i < t.length(); i++) {
+            result ^= t.charAt(i);
         }
-        for(int i=0; i<26;i++){
 
-            if(countS[i] != countT[i]){
-            return (char)(i + 'a');
-
-        }
-        }
-return ' ';
-
-
-        
+        return result;
     }
 }
