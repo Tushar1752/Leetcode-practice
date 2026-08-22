@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tushar1752/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Tushar1752/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tushar1752/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Tushar1752/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Tushar1752/Leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Tushar1752/Leetcode-practice/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Tushar1752/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
@@ -653,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tushar1752/Leetcode-practice/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Tushar1752/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
