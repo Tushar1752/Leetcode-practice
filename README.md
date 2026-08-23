@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Tushar1752/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Tushar1752/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Tushar1752/Leetcode-practice/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/Tushar1752/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Tushar1752/Leetcode-practice/tree/master/0994-rotting-oranges) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Tushar1752/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Tushar1752/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Tushar1752/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/Tushar1752/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Tushar1752/Leetcode-practice/tree/master/0134-gas-station) |
 | [0397-integer-replacement](https://github.com/Tushar1752/Leetcode-practice/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0881-boats-to-save-people](https://github.com/Tushar1752/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -672,4 +676,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tushar1752/Leetcode-practice/tree/master/0075-sort-colors) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Tushar1752/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
