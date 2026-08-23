@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Tushar1752/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/Tushar1752/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Tushar1752/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/Tushar1752/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Tushar1752/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Tushar1752/Leetcode-practice/tree/master/0881-boats-to-save-people) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Tushar1752/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0454-4sum-ii) |
+| [0763-partition-labels](https://github.com/Tushar1752/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0997-find-the-town-judge](https://github.com/Tushar1752/Leetcode-practice/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/Tushar1752/Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/1512-number-of-good-pairs) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Tushar1752/Leetcode-practice/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/Tushar1752/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Tushar1752/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
