@@ -5,29 +5,29 @@ class Solution{
         int right =n-1;
         int leftMax=0;
         int rightMax=0;
-        int ans =0;
-        while(left<right){
+        int water=0;
+        while(left < right){
             if(height[left] < height[right]){
-                if(height[left] >= leftMax ){
+                if(height[left] >= leftMax){
                     leftMax = height[left];
                 }
                 else{
-                    ans += leftMax- height[left];
+                    water += leftMax - height[left];
                 }
                 left++;
             }
             else{
                 if(height[right] >= rightMax){
-                    rightMax= height[right];
-
+                    rightMax = height[right];
                 }
                 else{
-                    ans += rightMax - height[right];
+                    water += rightMax- height[right];
                 }
                 right--;
             }
         }
-        return ans;
+        return water;
+
 
     }
 }
