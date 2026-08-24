@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Tushar1752/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Tushar1752/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Tushar1752/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/1143-longest-common-subsequence) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/Tushar1752/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Tushar1752/Leetcode-practice/tree/master/0844-backspace-string-compare) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Tushar1752/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0454-4sum-ii) |
+| [0567-permutation-in-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Tushar1752/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0997-find-the-town-judge](https://github.com/Tushar1752/Leetcode-practice/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/Tushar1752/Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar1752/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tushar1752/Leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar1752/Leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
