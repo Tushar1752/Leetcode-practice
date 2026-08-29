@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Tushar1752/Leetcode-practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Tushar1752/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tushar1752/Leetcode-practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Tushar1752/Leetcode-practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Tushar1752/Leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Tushar1752/Leetcode-practice/tree/master/0091-decode-ways) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Tushar1752/Leetcode-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Tushar1752/Leetcode-practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Tushar1752/Leetcode-practice/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0268-missing-number) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Tushar1752/Leetcode-practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Tushar1752/Leetcode-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0136-single-number) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tushar1752/Leetcode-practice/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Tushar1752/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 ## Quicksort
 |  |
