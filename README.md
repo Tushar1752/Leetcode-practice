@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Tushar1752/Leetcode-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Tushar1752/Leetcode-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Tushar1752/Leetcode-practice/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/Tushar1752/Leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0202-happy-number) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tushar1752/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Tushar1752/Leetcode-practice/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Tushar1752/Leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tushar1752/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tushar1752/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Tushar1752/Leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0101-symmetric-tree) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tushar1752/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Tushar1752/Leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0101-symmetric-tree) |
@@ -599,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Tushar1752/Leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tushar1752/Leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
