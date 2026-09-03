@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Tushar1752/Leetcode-practice/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tushar1752/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
+| [2401-longest-nice-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/2401-longest-nice-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tushar1752/Leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar1752/Leetcode-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tushar1752/Leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Tushar1752/Leetcode-practice/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Tushar1752/Leetcode-practice/tree/master/0397-integer-replacement) |
+| [2401-longest-nice-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/2401-longest-nice-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar1752/Leetcode-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Tushar1752/Leetcode-practice/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tushar1752/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2401-longest-nice-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/2401-longest-nice-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tushar1752/Leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar1752/Leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
