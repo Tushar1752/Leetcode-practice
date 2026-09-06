@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Tushar1752/Leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Tushar1752/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Tushar1752/Leetcode-practice/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Tushar1752/Leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Tushar1752/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Tushar1752/Leetcode-practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Tushar1752/Leetcode-practice/tree/master/0881-boats-to-save-people) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Tushar1752/Leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Tushar1752/Leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Tushar1752/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tushar1752/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Tushar1752/Leetcode-practice/tree/master/1552-magnetic-force-between-two-balls) |
