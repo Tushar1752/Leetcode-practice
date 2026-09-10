@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Tushar1752/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0611-valid-triangle-number) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Tushar1752/Leetcode-practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Tushar1752/Leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Tushar1752/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Tushar1752/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 ## Recursion
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Tushar1752/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Tushar1752/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tushar1752/Leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Tushar1752/Leetcode-practice/tree/master/0739-daily-temperatures) |
 ## Enumeration
 |  |
