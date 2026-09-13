@@ -5,23 +5,20 @@ class Solution {
 
         Stack<Character> stackS = new Stack<>();
         Stack<Character> stackT = new Stack<>();
-
-        for(char ch : s.toCharArray()){
-            if(ch == '#'){
-                if(!stackS.isEmpty()){
-                    stackS.pop();
-                }
-            }
-            else{
-                stackS.push(ch);
-            }
+     for(char ch : s.toCharArray()) {
+    if(ch == '#') {
+        if(!stackS.isEmpty()) {
+            stackS.pop();
         }
-
+    }
+    else {
+        stackS.push(ch);
+    }
+}
         for(char ch : t.toCharArray()){
-            if(ch == '#'){
+            if(ch=='#'){
                 if(!stackT.isEmpty()){
                     stackT.pop();
-
                 }
             }
                 else{
@@ -29,7 +26,11 @@ class Solution {
                 }
             
         }
-        return stackS.equals(stackT);
+        if(stackS.equals(stackT)){
+            return true;
+        }
+
+   return false;
 
 
     }
