@@ -11,7 +11,7 @@ class Solution {
                 stack.push(ch);
             }
         }
-        StringBuffer result= new StringBuffer();
+        StringBuilder result= new StringBuilder();
 
         while(!stack.isEmpty()){
             result.append(stack.pop());
