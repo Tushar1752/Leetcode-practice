@@ -1,25 +1,41 @@
 class Solution {
     public void reorderList(ListNode head) {
-        Stack<ListNode> st = new Stack<>();
-        ListNode temp = head;
+        if(head==null || head.next == null){
+            return;
+        }
+        ListNode slow=head;
+         ListNode fast = head;
 
-        while (temp != null) {
-            st.push(temp);
-            temp = temp.next;
+        while(fast.next != null && fast.next.next != null){
+            slow= slow.next;
+            fast=fast.next.next;
         }
 
-        int n = st.size();
-        temp = head;
+        ListNode second = reverse(slow.next);
+        slow.next= null;
 
-        for (int i = 0; i < n / 2; i++) {
-            ListNode last = st.pop();
-
-            last.next = temp.next;
-            temp.next = last;
-
-            temp = last.next;
+        ListNode first= head;
+        while(second!= null){
+            ListNode temp1= first.next;
+            ListNode temp2= second.next;
+            first.next= second;
+            second.next= temp1;
+            first= temp1;
+            second= temp2;
         }
+ 
+    }
 
-        temp.next = null;
+    private ListNode reverse(ListNode head){
+        ListNode prev = null;
+        ListNode curr = head;
+
+        while(curr != null){
+            ListNode next = curr.next;
+            curr.next= prev;
+            prev=curr;
+            curr=next;
+        }
+        return prev;
     }
 }
