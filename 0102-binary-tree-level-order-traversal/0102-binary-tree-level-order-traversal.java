@@ -1,31 +1,33 @@
-import java.util.*;
 
 class Solution {
 
     public List<List<Integer>> levelOrder(TreeNode root) {
-
         List<List<Integer>> result = new ArrayList<>();
 
-        dfs(root, 0, result);
-
-        return result;
-    }
-
-    static void dfs(TreeNode node, int level,
-                    List<List<Integer>> result) {
-
-        if (node == null) {
-            return;
+        if(root==null){
+            return result;
+        }
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        while(!queue.isEmpty()){
+            int levelSize = queue.size();
+            List<Integer> currentLevel = new ArrayList<>();
+            for(int i =0; i<levelSize; i++){
+                TreeNode node = queue.remove();
+                currentLevel.add(node.val);
+                if(node.left != null){
+                    queue.add(node.left);
+                }
+                if(node.right !=null){
+                    queue.add(node.right);
+                }
+            }
+            result.add(currentLevel);
         }
 
-        if (result.size() == level) {
-            result.add(new ArrayList<>());
-        }
+return result;
 
-        result.get(level).add(node.val);
 
-        dfs(node.left, level + 1, result);
-
-        dfs(node.right, level + 1, result);
+ 
     }
 }
