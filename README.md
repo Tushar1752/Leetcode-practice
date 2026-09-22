@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tushar1752/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Tushar1752/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Tushar1752/Leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Tushar1752/Leetcode-practice/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0344-reverse-string) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tushar1752/Leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Tushar1752/Leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tushar1752/Leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Tushar1752/Leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tushar1752/Leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Tushar1752/Leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tushar1752/Leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Tushar1752/Leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
