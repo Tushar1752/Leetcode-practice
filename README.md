@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Tushar1752/Leetcode-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Tushar1752/Leetcode-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Tushar1752/Leetcode-practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Tushar1752/Leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tushar1752/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0171-excel-sheet-column-number) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tushar1752/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Tushar1752/Leetcode-practice/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Tushar1752/Leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tushar1752/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/Tushar1752/Leetcode-practice/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0509-fibonacci-number) |
 ## Graph Theory
