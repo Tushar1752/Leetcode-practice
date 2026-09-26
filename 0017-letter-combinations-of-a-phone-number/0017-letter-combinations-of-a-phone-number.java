@@ -1,34 +1,23 @@
 class Solution {
-
-        List<String>ans = new ArrayList<>();
-        String[] map={
-            "","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"
-        };
         public List<String> letterCombinations(String digits) {
-            if(digits.length()==0){
-                return ans;
+            List<String> result = new ArrayList<>();
+            if(digits.length() ==0){
+                return result;
             }
-            solve(digits,0,"");
-            return ans;
+            String[] mapping= { " "," ","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+            // List<String> current = new ArrayList<>();
+            backtrack(0,digits,"",mapping,result);
+            return result;
+    }
+    private void backtrack(int index, String digits, String current, String [] mapping, List<String> result){
+        if(index== digits.length()){
+            result.add(current);
+            return ;
         }
-    
-
-    public void solve(String digits, int index, String temp) {
-
-        if (index == digits.length()) {
-
-            ans.add(temp);
-
-            return;
-
+        String letters = mapping[digits.charAt(index) - '0'];
+        for(char letter : letters.toCharArray()){
+            // current.add(letter);
+            backtrack(index+1,digits, current+letter, mapping, result);
         }
-
-        String letters = map[digits.charAt(index) - '0'];
-
-        for (int i = 0; i < letters.length(); i++) {
-
-            solve(digits, index + 1, temp + letters.charAt(i));
-        }
-        
     }
 }
