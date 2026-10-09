@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Tushar1752/Leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Tushar1752/Leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/Tushar1752/Leetcode-practice/tree/master/1052-grumpy-bookstore-owner) |
+| [1122-relative-sort-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Tushar1752/Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tushar1752/Leetcode-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Tushar1752/Leetcode-practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Tushar1752/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Tushar1752/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/Tushar1752/Leetcode-practice/tree/master/0997-find-the-town-judge) |
+| [1122-relative-sort-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Tushar1752/Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tushar1752/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
@@ -852,10 +856,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Tushar1752/Leetcode-practice/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tushar1752/Leetcode-practice/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1122-relative-sort-array) |
 ## Timsort
 |  |
 | ------- |
