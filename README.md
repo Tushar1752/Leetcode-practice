@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tushar1752/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Tushar1752/Leetcode-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Tushar1752/Leetcode-practice/tree/master/0200-number-of-islands) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tushar1752/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Tushar1752/Leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tushar1752/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tushar1752/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Tushar1752/Leetcode-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tushar1752/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tushar1752/Leetcode-practice/tree/master/0242-valid-anagram) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tushar1752/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Tushar1752/Leetcode-practice/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/Tushar1752/Leetcode-practice/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0435-non-overlapping-intervals) |
