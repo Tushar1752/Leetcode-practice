@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tushar1752/Leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/1901-find-a-peak-element-ii) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2401-longest-nice-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/2401-longest-nice-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tushar1752/Leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Tushar1752/Leetcode-practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tushar1752/Leetcode-practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Tushar1752/Leetcode-practice/tree/master/3731-find-missing-elements) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Tushar1752/Leetcode-practice/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/1122-relative-sort-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
