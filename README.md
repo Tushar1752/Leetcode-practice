@@ -957,4 +957,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Tushar1752/Leetcode-practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Tushar1752/Leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Tushar1752/Leetcode-practice/tree/master/1934-confirmation-rate) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
