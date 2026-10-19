@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tushar1752/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Tushar1752/Leetcode-practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tushar1752/Leetcode-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Tushar1752/Leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Tushar1752/Leetcode-practice/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0064-minimum-path-sum) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tushar1752/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Tushar1752/Leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tushar1752/Leetcode-practice/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Tushar1752/Leetcode-practice/tree/master/0091-decode-ways) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tushar1752/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Tushar1752/Leetcode-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Tushar1752/Leetcode-practice/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0179-largest-number) |
