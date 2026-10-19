@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Tushar1752/Leetcode-practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Tushar1752/Leetcode-practice/tree/master/0682-baseball-game) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tushar1752/Leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Tushar1752/Leetcode-practice/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Tushar1752/Leetcode-practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tushar1752/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Tushar1752/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0912-sort-an-array) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Tushar1752/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tushar1752/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Tushar1752/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Tushar1752/Leetcode-practice/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tushar1752/Leetcode-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Tushar1752/Leetcode-practice/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Tushar1752/Leetcode-practice/tree/master/0973-k-closest-points-to-origin) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Tushar1752/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Tushar1752/Leetcode-practice/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Tushar1752/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Tushar1752/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/Tushar1752/Leetcode-practice/tree/master/0997-find-the-town-judge) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tushar1752/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tushar1752/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tushar1752/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Tushar1752/Leetcode-practice/tree/master/0621-task-scheduler) |
 | [1512-number-of-good-pairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/Tushar1752/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -560,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tushar1752/Leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Tushar1752/Leetcode-practice/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Tushar1752/Leetcode-practice/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Tushar1752/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Tushar1752/Leetcode-practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Tushar1752/Leetcode-practice/tree/master/0881-boats-to-save-people) |
