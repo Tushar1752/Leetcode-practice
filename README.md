@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tushar1752/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Tushar1752/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tushar1752/Leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Tushar1752/Leetcode-practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Tushar1752/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Tushar1752/Leetcode-practice/tree/master/0877-stone-game) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Tushar1752/Leetcode-practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Tushar1752/Leetcode-practice/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Tushar1752/Leetcode-practice/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Tushar1752/Leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Tushar1752/Leetcode-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tushar1752/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Tushar1752/Leetcode-practice/tree/master/1143-longest-common-subsequence) |
