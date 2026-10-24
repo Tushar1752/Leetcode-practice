@@ -1,9 +1,4 @@
 SELECT Distinct class
 FROM Courses
-WHERE class IN (
-    SELECT class
-    FROM Courses
-    GROUP BY class
-    HAVING COUNT(student) >= 5
-    
-);
+Group by class
+Having count(student) >= 5;
